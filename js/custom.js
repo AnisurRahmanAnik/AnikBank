@@ -8,7 +8,7 @@ logInBtn.addEventListener('click',function(){
     document.getElementById('login-area').style.display = 'none'
     document.getElementById('transit').style.display = 'block'
    }else{
-       alert('wrong pass')
+       alert('You have entered wrong email or password')
    }
 })
 // DEPOSIT EVENT HANDERLLER
