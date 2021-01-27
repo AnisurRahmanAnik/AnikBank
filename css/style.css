@@ -1,0 +1,28 @@
+.login-form{
+    box-shadow: 5px 5px 10px gray;
+}
+.transaction-area{
+    display: none;
+    text-align: center;
+}
+.status{
+    padding: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.deposit{
+    background: slateblue;
+}
+.withdraw{
+    background: lightsalmon;
+}
+.balance{
+    background: orange;
+}
+h4.text-left,input.text-left{
+    text-align: left;
+}
+.transaction-area .login-form{
+    padding: 40px;
+    border-radius: 10px;
+}
